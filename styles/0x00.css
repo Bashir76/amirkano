@@ -1,0 +1,122 @@
+#h1 { 
+  text-align: center; padding-top: -5px; color: linen;
+  } 
+
+.blog-img { 
+  position: inherit;
+  max-width: 245px; 
+  margin: 1em auto;
+}
+  hr { 
+    margin:; 0; border: 1px solid rgba(255, 255, 120, 1.6); 
+    width: 95%; 
+  } 
+    
+    .fa { 
+      display: block; 
+      align-items: left; color:linen;
+    } 
+    
+    .steal { 
+      width: 100%; 
+      height: 1.5em; 
+      background-color: white; 
+      margin: 1px; 
+      text-align: center; 
+      border-radius: 10px; 
+      padding-bottom: -3px; 
+      border: solid 1px black; 
+      color: white;
+    } 
+  
+  .steal2 {
+    width: auto; 
+    height: 1.5em; 
+    position: inherit;
+    opacity: 40%;
+    background-color: #001BB2; 
+    text-align: center; 
+    border-radius: 10px; 
+    top: 7px; 
+    color: white;
+  }
+  
+h1 { 
+  font-family: sans-serif;
+} 
+
+h2, h3, h4, h5, h6, p { 
+  font-family: Raleway, sans-serif;
+  margin: 3px;
+}
+
+.contener { 
+  background: linear-gradient(45deg, #C16345, #CF8D2A, #CF5F67); 
+  height: auto; 
+  width: 100%; 
+  box-sizing: border;
+  border: solid 2px black;
+  border-radius: 5px;
+  margin-left: 2px;
+  color: black; 
+  font-family: Baskervville,Serif;
+} 
+
+.contener2 { 
+  background: linear-gradient(45deg, #C16345, #CF8D2A, #CF5F67); 
+  height: auto; 
+  width: 100%; 
+  box-sizing: border;
+  border-radius: 5px;
+  margin-left: 2px;
+  border: solid 2px black; /*#CF2B38; */
+  font-family: Baskervville, Ralawey;
+} 
+
+.contener3 { 
+  background: linear-gradient(45deg, #C16345, #CF8D2A, #CF5F67); 
+  width: 100%;
+  box-sizing: border;
+  border: solid 2px black;
+  border-radius: 5px;
+  margin-left: 2px;
+  font-family: Baskervville;
+}
+
+#icon { 
+  font-size: 2em; color: gray; padding-left: 16px; font-style: bold; font-family: Ralawey;
+  } 
+  
+#icon-p { font-size: 20px; } 
+
+#click_me { 
+  background-color: orange;
+  color: linen; 
+  padding: 8px; 
+  margin: ;
+  border: solid 2px white;
+  
+} 
+.head_icons {
+  text-decoration: solid;
+  font-size: 20px;
+  display: absolute;
+  right: 100%;
+  margin-top: 1px;
+  text-align: right;
+}
+
+footer { 
+position: absolute; 
+left: 0%;
+right: 0%;
+margin-right: 0;
+margin-top: 5px;
+width: 100%; 
+height: 5rem;
+text-align: center;
+background-color: black;
+} 
+/*
+@media screen and (max-width: 1000px) { .contener3, .contener,
+}*/
