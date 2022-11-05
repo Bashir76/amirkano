@@ -1,7 +1,9 @@
 #h1 { 
-  text-align: center; padding-top: -5px; color: linen;
+  text-align: center; /*padding-top: -5px;*/ color: linen;
   } 
-
+h1 {
+  margin: 3px;
+}
 .blog-img { 
   position: inherit;
   max-width: 245px; 
@@ -81,6 +83,19 @@ h2, h3, h4, h5, h6, p {
   border-radius: 5px;
   margin-left: 2px;
   font-family: Baskervville;
+}
+
+.container4 { 
+  color: black;
+  height: auto; 
+  font: Baskervville, Ralawey;
+  background-color: #96D4D4;
+  width: 100%; 
+  box-sizing: border;
+  border-radius: 5px;
+  margin-left: 2px;
+  border: solid 2px black; /*#CF2B38; */
+  font-family: Baskervville, Ralawey;
 }
 
 #icon { 
