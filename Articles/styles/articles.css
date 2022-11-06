@@ -1,0 +1,58 @@
+body {
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  display: block;
+  font-family: Sans-Serif;
+  border-left: 5px green;
+}
+
+span {
+  color: red;
+}
+
+section {
+  color: black;
+  font-family: serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin-left: 3px;
+}
+.articles-container {
+  background-color: milk;
+  color: black;
+  height: auto;
+  width: 100%;
+  margin: 3px;
+  border: solid 3px  green;
+  border-bottom: 0px;
+}
+.articles-container-hd  {
+  background-color: green;
+  color: white;
+  height: 5rem;
+  width: auto;
+  text-align: center;
+  padding: 5px;
+  
+}
+
+button {
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+  height: 2.5em;
+  font-size: 1.1rem;
+  background-color: #0AFC11;/* #3b3b4f */
+  border-color: white;
+}
+
+address { 
+  display: block;
+  font-style: italic;
+}
