@@ -2,7 +2,7 @@ body {
   background-color: white;
   height: auto;
   display: block;
-  font-family: Sans-Serif;
+  font: Sans-Serif;
   border-left: 5px green;
 }
 
@@ -55,4 +55,6 @@ button {
 address { 
   display: block;
   font-style: italic;
+  margin-left: 3px;
+  margin-bottom: 3px;
 }
